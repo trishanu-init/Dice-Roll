@@ -1,4 +1,4 @@
-window.onload=function(){
+window.onreload=function(){
 var randomNumber1=Math.random();
 randomNumber1=randomNumber1*6;
 randomNumber1=Math.floor(randomNumber1);
